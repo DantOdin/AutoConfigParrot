@@ -64,11 +64,6 @@ El script instala y configura las siguientes herramientas:
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias, errores que reportar o mejoras, no dudes en abrir un **issue** o enviar un **pull request**.
 
----
-
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE). Si utilizas este script, se agradece el reconocimiento.
 
 ---
 
